@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\3.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sanFoundryPrep\\3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sanFoundryPrep\\2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sanFoundryPrep\\1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\4.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sanFoundryPrep\\4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\5.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sanFoundryPrep\\5.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\6.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sanFoundryPrep\\6.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\7.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sanFoundryPrep\\7.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\8.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sanFoundryPrep\\8.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\9.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sanFoundryPrep\\9.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\10.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sanFoundryPrep\\10.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\11.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sanFoundryPrep\\11.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1.py",
+              "DocumentMoniker": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\1.py",
+              "RelativeDocumentMoniker": "sanFoundryPrep\\1.py",
+              "ToolTip": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\1.py",
+              "RelativeToolTip": "sanFoundryPrep\\1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-03T22:09:09.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2.py",
+              "DocumentMoniker": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\2.py",
+              "RelativeDocumentMoniker": "sanFoundryPrep\\2.py",
+              "ToolTip": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\2.py",
+              "RelativeToolTip": "sanFoundryPrep\\2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-03T22:09:13.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3.py",
+              "DocumentMoniker": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\3.py",
+              "RelativeDocumentMoniker": "sanFoundryPrep\\3.py",
+              "ToolTip": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\3.py",
+              "RelativeToolTip": "sanFoundryPrep\\3.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-03T22:09:15.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4.py",
+              "DocumentMoniker": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\4.py",
+              "RelativeDocumentMoniker": "sanFoundryPrep\\4.py",
+              "ToolTip": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\4.py",
+              "RelativeToolTip": "sanFoundryPrep\\4.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-03T22:09:16.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "5.py",
+              "DocumentMoniker": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\5.py",
+              "RelativeDocumentMoniker": "sanFoundryPrep\\5.py",
+              "ToolTip": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\5.py",
+              "RelativeToolTip": "sanFoundryPrep\\5.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-03T22:09:19.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "6.py",
+              "DocumentMoniker": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\6.py",
+              "RelativeDocumentMoniker": "sanFoundryPrep\\6.py",
+              "ToolTip": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\6.py",
+              "RelativeToolTip": "sanFoundryPrep\\6.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-03T22:09:20.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "7.py",
+              "DocumentMoniker": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\7.py",
+              "RelativeDocumentMoniker": "sanFoundryPrep\\7.py",
+              "ToolTip": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\7.py",
+              "RelativeToolTip": "sanFoundryPrep\\7.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-03T22:09:22.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "8.py",
+              "DocumentMoniker": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\8.py",
+              "RelativeDocumentMoniker": "sanFoundryPrep\\8.py",
+              "ToolTip": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\8.py",
+              "RelativeToolTip": "sanFoundryPrep\\8.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-03T22:09:23.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "9.py",
+              "DocumentMoniker": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\9.py",
+              "RelativeDocumentMoniker": "sanFoundryPrep\\9.py",
+              "ToolTip": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\9.py",
+              "RelativeToolTip": "sanFoundryPrep\\9.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-03T22:09:24.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "10.py",
+              "DocumentMoniker": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\10.py",
+              "RelativeDocumentMoniker": "sanFoundryPrep\\10.py",
+              "ToolTip": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\10.py",
+              "RelativeToolTip": "sanFoundryPrep\\10.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-03T22:09:25.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "11.py",
+              "DocumentMoniker": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\11.py",
+              "RelativeDocumentMoniker": "sanFoundryPrep\\11.py",
+              "ToolTip": "C:\\Users\\arthur.belanger\\source\\PythonRepos\\sanFoundryPrep\\11.py",
+              "RelativeToolTip": "sanFoundryPrep\\11.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-03T22:09:27.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
