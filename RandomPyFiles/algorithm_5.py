@@ -5,7 +5,8 @@ Author: Arthur Belanger
 Date created: 
 Notes:
 
-Problem Description
+Problem Description : Write a function that counts how many times each 
+character appears in a string, ignoring case and spaces.
 
 
 Problem Solution

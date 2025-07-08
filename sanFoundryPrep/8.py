@@ -19,6 +19,20 @@ import time
 divider = ("_ _ _ ")
 print(divider * 3)
 
+upperRange = input("Upper range: ")
+lowerRange = input("Lower range: ")
+num = input("What is the number you want to be divided: ")
+
+
+def main():
+    for x in range(lowerRange, upperRange):
+        if num % x == 0:
+            print(num)
+
+
+
+if __name__ == '__main__':
+    main()
 
 
 

@@ -1,6 +1,6 @@
 """
 Program Name
-Program description: Write a Python Program to check whether a given number is even or odd
+Program description: Check whether a given number is odd, or even
 Author: Arthur Belanger
 Date created: 6-2-25
 Notes:

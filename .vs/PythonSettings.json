@@ -4,9 +4,13 @@
   "editor.formatOnSave": true,
   "python.linting.enabled": true,
   "python.linting.flake8Enabled": true,
-  "python.linting.flake8Args": ["--max-line-length=88"],
+  "python.linting.flake8Args": [
+    "--max-line-length=88"
+  ],
   "problems.decorations.enabled": true,
   "python.analysis.autoSearchPaths": true,
   "python.analysis.useLibraryCodeForTypes": true,
-  "python.linting.pylintEnabled": false
+  "python.linting.pylintEnabled": false,
+  "TestFramework": "Pytest",
+  "Interpreter": "Global|VisualStudio|anaconda3"
 }

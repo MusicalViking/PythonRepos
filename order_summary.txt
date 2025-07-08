@@ -1,0 +1,27 @@
+=== ORDER SUMMARY ===
+Meals:
+- Chicken Salad
+- Hamburger
+- Steak
+- Pasta
+- Turkey
+- Turkey
+Sides:
+- Breadsticks
+- Cheese Sticks
+- Corn
+- Breadsticks
+- Breadsticks
+- Fries
+Drinks:
+- Water
+- Water
+- Soda
+- Soda
+- Beer
+- Beer
+- Beer
+- Beer
+- Wine
+
+Total cost: $147.75

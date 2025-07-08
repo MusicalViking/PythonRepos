@@ -5,7 +5,8 @@ Author: Arthur Belanger
 Date created: 
 Notes:
 
-Problem Description
+Problem Description : Given a list of integers and an integer k, 
+find the maximum sum of any contiguous subarray of size k.
 
 
 Problem Solution

@@ -5,7 +5,8 @@ Author: Arthur Belanger
 Date created: 
 Notes:
 
-Problem Description
+Problem Description : Write a function that takes in two lists and returns 
+a new sorted list containing unique values from both.
 
 
 Problem Solution
