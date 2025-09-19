@@ -1,0 +1,16 @@
+Python 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\arthur.belanger\source\School\CIS-110\WeeklyProjects\wk11\ch12ex15.py
+_ _ _ _ _ _ _ _ _ 
+Test card classes
+How many cards would you like to see? 5
+Card Ten of Hearts has value: 10
+Card Two of Clubs has value: 2
+Card Seven of Spades has value: 7
+Card Six of Diamonds has value: 6
+Card Nine of Diamonds has value: 9
+_ _ _ _ _ _ _ _ _ 
+Arthur Belanger
+CIS-110 - Program #ch12ex15 
+Sat Apr 26 18:10:17 2025

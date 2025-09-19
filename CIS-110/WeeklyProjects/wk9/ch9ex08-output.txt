@@ -1,0 +1,12 @@
+Python 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\arthur.belanger\source\PythonRepos\CIS-110\WeeklyProjects\wk9\ch9ex08.py
+_ _ _ _ _ _ _ _ _ 
+Sieve of Eratosthenes
+Enter highest number: 37
+The prime #'s up to 37 are [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37]
+_ _ _ _ _ _ _ _ _ 
+Arthur Belanger
+CIS-110 - ch9ex08 
+Mon Apr  7 12:26:13 2025

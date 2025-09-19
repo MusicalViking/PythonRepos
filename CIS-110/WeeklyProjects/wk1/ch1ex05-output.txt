@@ -1,0 +1,22 @@
+Python 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:/Users/arthur.belanger/OneDrive - University of Maine System/School/UMA/CIS-101+110/110/WeeklyProjects/ch1ex05.py
+This program illustrates a chaotic function
+Enter a number between 0 and 1: 0.27
+How many numbers should I print? 15
+0.76869
+0.6934421672100001
+0.8290624989858837
+0.5526996998685446
+0.9641686923716848
+0.134734957585645
+0.4546676502811538
+0.9669854144689761
+0.1245060284256305
+0.42511668151409565
+0.9531307055889007
+0.17422299824476958
+0.5610904459967531
+0.9604450338908794
+0.14816244598438488

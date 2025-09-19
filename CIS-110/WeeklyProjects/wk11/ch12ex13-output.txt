@@ -1,0 +1,26 @@
+Python 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\arthur.belanger\source\School\CIS-110\WeeklyProjects\wk11\ch12ex13.py
+_ _ _ _ _ _ _ _ _ 
+This finds the volume and surface area of a sphere from input radius. 
+
+Please enter the radius of sphere: 10
+The surface area is: 1256.64 square units
+The volume is: 4188.79 cubic units
+_ _ _ _ _ _ _ _ _ 
+Arthur Belanger
+CIS-110 - Program #ch12ex13 
+Sat Apr 26 18:07:14 2025
+>>> 
+= RESTART: C:\Users\arthur.belanger\source\School\CIS-110\WeeklyProjects\wk11\ch12ex13.py
+_ _ _ _ _ _ _ _ _ 
+This finds the volume and surface area of a sphere from input radius. 
+
+Please enter the radius of sphere: 18
+The surface area is: 4071.50 square units
+The volume is: 24429.02 cubic units
+_ _ _ _ _ _ _ _ _ 
+Arthur Belanger
+CIS-110 - Program #ch12ex13 
+Sat Apr 26 18:07:29 2025

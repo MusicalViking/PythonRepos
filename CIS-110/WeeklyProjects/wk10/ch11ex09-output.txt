@@ -1,0 +1,41 @@
+Python 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\arthur.belanger\source\School\CIS-110\WeeklyProjects\wk10\ch11ex09.py
+_ _ _ _ _ _ _ _ _ 
+ Want to know the chance of winning at craps?
+How many games should we play? 10
+
+With 10 played games:
+I won 5 games.
+The chance of winning is 50.0%
+_ _ _ _ _ _ _ _ _ 
+Arthur Belanger
+CIS-110 - ch11ex09 
+Tue Apr 15 23:33:14 2025
+>>> 
+= RESTART: C:\Users\arthur.belanger\source\School\CIS-110\WeeklyProjects\wk10\ch11ex09.py
+_ _ _ _ _ _ _ _ _ 
+ Want to know the chance of winning at craps?
+How many games should we play? 100
+
+With 100 played games:
+I won 56 games.
+The chance of winning is 56.0%
+_ _ _ _ _ _ _ _ _ 
+Arthur Belanger
+CIS-110 - ch11ex09 
+Tue Apr 15 23:33:22 2025
+>>> 
+= RESTART: C:\Users\arthur.belanger\source\School\CIS-110\WeeklyProjects\wk10\ch11ex09.py
+_ _ _ _ _ _ _ _ _ 
+ Want to know the chance of winning at craps?
+How many games should we play? 1000
+
+With 1000 played games:
+I won 465 games.
+The chance of winning is 46.5%
+_ _ _ _ _ _ _ _ _ 
+Arthur Belanger
+CIS-110 - ch11ex09 
+Tue Apr 15 23:33:29 2025

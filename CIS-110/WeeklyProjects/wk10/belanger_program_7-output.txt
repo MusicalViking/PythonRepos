@@ -1,0 +1,131 @@
+Python 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\arthur.belanger\source\School\CIS-110\WeeklyProjects\wk10\belanger_program_7.py
+_ _ _ _ _ _ _ _ _ _ 
+Are you ready to try your luck at blackjack? (yes/no): yes
+Great! Hope you brought some $$$.
+
+How many games should be played? 50
+What stand value do you want? 14
+
+Games played: 50
+Games won: 19
+Win rate: 38.0%
+Player stand value 14: Player wins 19 out of 50 games
+_ _ _ _ _ _ _ _ _ _ 
+Arthur Belanger
+CIS-110 - Program #7 
+Sun Apr 20 08:56:41 2025
+
+Click Enter or close the window to exit...
+= RESTART: C:\Users\arthur.belanger\source\School\CIS-110\WeeklyProjects\wk10\belanger_program_7.py
+_ _ _ _ _ _ _ _ _ _ 
+Are you ready to try your luck at blackjack? (yes/no): yes
+Great! Hope you brought some $$$.
+
+How many games should be played? 50
+What stand value do you want? 15
+
+Games played: 50
+Games won: 15
+Win rate: 30.0%
+Player stand value 15: Player wins 15 out of 50 games
+_ _ _ _ _ _ _ _ _ _ 
+Arthur Belanger
+CIS-110 - Program #7 
+Sun Apr 20 08:57:03 2025
+
+Click Enter or close the window to exit...
+= RESTART: C:\Users\arthur.belanger\source\School\CIS-110\WeeklyProjects\wk10\belanger_program_7.py
+_ _ _ _ _ _ _ _ _ _ 
+Are you ready to try your luck at blackjack? (yes/no): yes
+Great! Hope you brought some $$$.
+
+How many games should be played? 50
+What stand value do you want? 16
+
+Games played: 50
+Games won: 23
+Win rate: 46.0%
+Player stand value 16: Player wins 23 out of 50 games
+_ _ _ _ _ _ _ _ _ _ 
+Arthur Belanger
+CIS-110 - Program #7 
+Sun Apr 20 08:57:24 2025
+
+Click Enter or close the window to exit...
+= RESTART: C:\Users\arthur.belanger\source\School\CIS-110\WeeklyProjects\wk10\belanger_program_7.py
+_ _ _ _ _ _ _ _ _ _ 
+Are you ready to try your luck at blackjack? (yes/no): yes
+Great! Hope you brought some $$$.
+
+How many games should be played? 50
+What stand value do you want? 17
+
+Games played: 50
+Games won: 28
+Win rate: 56.0%
+Player stand value 17: Player wins 28 out of 50 games
+_ _ _ _ _ _ _ _ _ _ 
+Arthur Belanger
+CIS-110 - Program #7 
+Sun Apr 20 08:57:38 2025
+
+Click Enter or close the window to exit...
+= RESTART: C:\Users\arthur.belanger\source\School\CIS-110\WeeklyProjects\wk10\belanger_program_7.py
+_ _ _ _ _ _ _ _ _ _ 
+Are you ready to try your luck at blackjack? (yes/no): yes
+Great! Hope you brought some $$$.
+
+How many games should be played? 50
+What stand value do you want? 18
+
+Games played: 50
+Games won: 20
+Win rate: 40.0%
+Player stand value 18: Player wins 20 out of 50 games
+_ _ _ _ _ _ _ _ _ _ 
+Arthur Belanger
+CIS-110 - Program #7 
+Sun Apr 20 08:57:59 2025
+
+Click Enter or close the window to exit...
+= RESTART: C:\Users\arthur.belanger\source\School\CIS-110\WeeklyProjects\wk10\belanger_program_7.py
+_ _ _ _ _ _ _ _ _ _ 
+Are you ready to try your luck at blackjack? (yes/no): 
+= RESTART: C:\Users\arthur.belanger\source\School\CIS-110\WeeklyProjects\wk10\belanger_program_7.py
+_ _ _ _ _ _ _ _ _ _ 
+Are you ready to try your luck at blackjack? (yes/no): yes
+Great! Hope you brought some $$$.
+
+How many games should be played? 50
+What stand value do you want? 19
+
+Games played: 50
+Games won: 18
+Win rate: 36.0%
+Player stand value 19: Player wins 18 out of 50 games
+_ _ _ _ _ _ _ _ _ _ 
+Arthur Belanger
+CIS-110 - Program #7 
+Sun Apr 20 08:59:53 2025
+
+Click Enter or close the window to exit...
+= RESTART: C:\Users\arthur.belanger\source\School\CIS-110\WeeklyProjects\wk10\belanger_program_7.py
+_ _ _ _ _ _ _ _ _ _ 
+Are you ready to try your luck at blackjack? (yes/no): yes
+Great! Hope you brought some $$$.
+
+How many games should be played? 50
+What stand value do you want? 20
+
+Games played: 50
+Games won: 21
+Win rate: 42.0%
+Player stand value 20: Player wins 21 out of 50 games
+_ _ _ _ _ _ _ _ _ _ 
+Arthur Belanger
+CIS-110 - Program #7 
+Sun Apr 20 09:00:15 2025
+

@@ -1,0 +1,20 @@
+Python 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\arthur.belanger\source\PythonRepos\CIS-110\WeeklyProjects\wk7\Belanger_Program_5.py
+Wt.(oz)-  Handling- Tracking- Freight-  H/T-      Total     
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+14.0      yes       yes       2.94      7.50      10.44     
+26.0      no        yes       8.58      5.00      13.58     
+16.0      yes       no        5.28      5.00      10.28     
+48.0      yes       yes       20.64     7.50      28.14     
+72.0      no        no        42.48     0.00      42.48     
+64.0      yes       yes       37.76     7.50      45.26     
+13.0      yes       yes       2.73      7.50      10.23     
+27.0      no        yes       8.91      5.00      13.91     
+31.0      no        no        10.23     0.00      10.23     
+32.0      no        no        13.76     0.00      13.76     
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Arthur Belanger
+CIS-110 - Program #5
+Thu Mar 20 12:02:12 2025

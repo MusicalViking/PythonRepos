@@ -1,0 +1,46 @@
+Python 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\arthur.belanger\source\IDE_CodeRepos\VS_Repos\CIS-110\WeeklyProjects\wk7\ch7ex06.py
+--------------------------------
+GCD Calculator!
+First number: 75
+Second number: 20
+The GCD of 75 and 20 is: 5
+--------------------------------
+Arthur Belanger
+CIS-110 - ch7ex06
+Sun Mar 16 12:41:50 2025
+>>> 
+= RESTART: C:\Users\arthur.belanger\source\IDE_CodeRepos\VS_Repos\CIS-110\WeeklyProjects\wk7\ch7ex06.py
+--------------------------------
+GCD Calculator!
+First number: 188
+Second number: 72
+The GCD of 188 and 72 is: 4
+--------------------------------
+Arthur Belanger
+CIS-110 - ch7ex06
+Sun Mar 16 12:42:14 2025
+>>> 
+= RESTART: C:\Users\arthur.belanger\source\IDE_CodeRepos\VS_Repos\CIS-110\WeeklyProjects\wk7\ch7ex06.py
+--------------------------------
+GCD Calculator!
+First number: 72
+Second number: 27
+The GCD of 72 and 27 is: 9
+--------------------------------
+Arthur Belanger
+CIS-110 - ch7ex06
+Sun Mar 16 12:42:27 2025
+>>> 
+= RESTART: C:\Users\arthur.belanger\source\IDE_CodeRepos\VS_Repos\CIS-110\WeeklyProjects\wk7\ch7ex06.py
+--------------------------------
+GCD Calculator!
+First number: 4
+Second number: 27
+The GCD of 4 and 27 is: 1
+--------------------------------
+Arthur Belanger
+CIS-110 - ch7ex06
+Sun Mar 16 12:42:59 2025
